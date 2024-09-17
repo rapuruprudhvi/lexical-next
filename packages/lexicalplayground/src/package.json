@@ -1,0 +1,24 @@
+{
+    "name": "lexical-playground",
+    "version": "0.17.1",
+    "private": true,
+    "type": "module",
+    "scripts": {
+      "dev": "vite --host --port 3000",
+      "build-dev": "vite build",
+      "build-prod": "vite build --config vite.prod.config.ts",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "@lexical/list": "0.17.1",
+      "@lexical/react": "0.17.1",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react": "^4.2.1",
+      "vite": "^5.2.11"
+    },
+    "sideEffects": false
+  }
+  

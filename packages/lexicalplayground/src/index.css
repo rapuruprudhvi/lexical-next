@@ -1,0 +1,20 @@
+.editor-bullet-list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .editor-number-list {
+    list-style-type: decimal;
+    margin-left: 20px;
+  }
+  
+  .editor-list-item {
+    margin: 5px 0;
+  }
+  
+  .editor-input {
+    min-height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
